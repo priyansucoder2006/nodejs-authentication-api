@@ -143,12 +143,6 @@ http://localhost:5000
 * Deployment (AWS / Render)
 * API Documentation (Swagger)
 
----
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/your-username
 
 ---
 
