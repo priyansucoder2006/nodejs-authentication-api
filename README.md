@@ -49,53 +49,7 @@ server.js
 package.json
 README.md
 .env
-```
 
----
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Navigate to project folder
-
-```
-cd your-repo-name
-```
-
-### 3. Install dependencies
-
-```
-npm install
-```
-
-### 4. Create .env file
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-REDIS_HOST=127.0.0.1
-REDIS_PORT=6379
-```
-
-### 5. Run the server
-
-```
-npm run dev
-```
-
-Server will start on:
-
-```
-http://localhost:5000
-```
-
----
 
 ## 🔐 Authentication APIs
 
